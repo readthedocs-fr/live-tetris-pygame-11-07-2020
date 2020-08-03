@@ -7,7 +7,7 @@ Voici le repo du live portant sur la création d'un jeu Tetris en python avec le
 
 
 
-Nécessite l'installation de python 3.6 ou plus, ainsi que de pygame. \
+Nécessite l'installation de python 3.6 ou plus, ainsi que de pygame dans sa version 1.9.6. \
 Pour installer pygame, utilisez cette commande dans votre Teminal:
 ```pydocstring
 pip install pygame
